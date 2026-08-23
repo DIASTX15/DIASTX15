@@ -154,6 +154,4 @@ Me chamo João Pedro Dias, tenho 16 anos e sou natural de Campo Grande MS. Estou
 
 <br/>
 <br/>
-### 📊 Estatísticas
 
-  ![Anurag's GitHub stats(https://github-readme-stats.vercel.app/api?username=DIASTX15&show_icons=true&theme=tokyonight)
