@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Pedro Dias
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora`**
 
 Me chamo João Pedro Dias, tenho 16 anos e sou natural de Campo Grande MS. Estou cursando o ensino médio, tenho curso em informática e Programação. Atualmente, estou fazendo alguns cursos para meu aprendizado. Sou apaixonada por tecnologia.
 
